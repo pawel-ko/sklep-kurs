@@ -1,0 +1,5 @@
+name,category,unit_price,identifier,quantity
+Młotek,TOOLS,30.0,1,0
+Chleb,FOOD,4.0,2,1
+Kosiarka,TOOLS,700.0,3,0
+Rower,OTHER,1000.0,4,0

@@ -1,0 +1,45 @@
+{
+    "orders": {
+        "p-k": [
+            {
+                "client_first_name": "p",
+                "client_last_name": "k",
+                "order_elements": [
+                    {
+                        "product": {
+                            "name": "Kosiarka",
+                            "category": "TOOLS",
+                            "unit_price": 700.0,
+                            "identifier": 3
+                        },
+                        "quantity": 1
+                    },
+                    {
+                        "product": {
+                            "name": "Chleb",
+                            "category": "FOOD",
+                            "unit_price": 4.0,
+                            "identifier": 2
+                        },
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "client_first_name": "p",
+                "client_last_name": "k",
+                "order_elements": [
+                    {
+                        "product": {
+                            "name": "Chleb",
+                            "category": "FOOD",
+                            "unit_price": 4.0,
+                            "identifier": 2
+                        },
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

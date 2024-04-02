@@ -1,0 +1,36 @@
+--------------------
+Zamówienie z³o¿one przez: Pawe³  Konkolewski
+O ³¹cznej wartoœci: 271 PLN
+Zamówione produkty:
+	Nazwa: Rower | Kategoria: Inne | Cena: 13 PLN/szt x 1
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 86 PLN/szt x 3
+
+--------------------
+--------------------
+Zamówienie z³o¿one przez: Jan Kowalski
+O ³¹cznej wartoœci: 4.0 PLN
+Zamówione produkty:
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 4.0 PLN/szt x 1
+
+--------------------
+--------------------
+Zamówienie z³o¿one przez: a s
+O ³¹cznej wartoœci: 30.0 PLN
+Zamówione produkty:
+	Nazwa: MÅ‚otek | Kategoria: Narzêdzia | Cena: 30.0 PLN/szt x 1
+
+--------------------
+--------------------
+Zamówienie z³o¿one przez: q w
+O ³¹cznej wartoœci: 30.0 PLN
+Zamówione produkty:
+	Nazwa: MÅ‚otek | Kategoria: Narzêdzia | Cena: 30.0 PLN/szt x 1
+
+--------------------
+--------------------
+Zamówienie z³o¿one przez: f s
+O ³¹cznej wartoœci: 1000.0 PLN
+Zamówione produkty:
+	Nazwa: Rower | Kategoria: Inne | Cena: 1000.0 PLN/szt x 1
+
+--------------------
